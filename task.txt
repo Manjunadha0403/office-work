@@ -1,0 +1,3 @@
+Fast api :- The fast api is a souree to create api and itis open source anyone can access and create their own api of there needs
+	    the fast api is develop in 2018.
+	    in fast api we have mainly 4 types of data access methodes like (post,put,get,delete).
