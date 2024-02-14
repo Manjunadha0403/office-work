@@ -1,0 +1,4 @@
+﻿Track your progress with the free "My Learning" program here at W3Schools.
+Log in to your account, and start earning points!
+This is an optional feature. You can study W3Schools without using My Learning.
+Comma - separated values (CSV) is a text file format that uses commas to separate values. A CSV file stores tabular data (numbers and text) in plain text, where each line of the file typically represents one data record.
