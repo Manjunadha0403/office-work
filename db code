@@ -1,0 +1,5 @@
+DATA: lt_customers TYPE TABLE OF zcustomers.
+
+SELECT customer_id material_id
+INTO TABLE lt_customers
+FROM zcustomers.
